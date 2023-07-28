@@ -6,3 +6,6 @@ Proyecto realizado como parte del AluraChallengeBackEnd. Estará en mejora peri�
 - Swing Java
 ## Autor
 David Chambilla Obregón - Lima, Perú
+## Observaciones para mejoras
+- Las ventanas aún se abren por separado.
+- Al cerrar una, se cierran todas.
